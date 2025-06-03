@@ -89,7 +89,8 @@ const loketMapping = [
     no: 6,
     parentLoket: "",
     childLoket: "SAMSAT SALATIGA",
-    petugas: "RIKA WAHYU UTAMI",    endpoint: "http://localhost:8080/samsatsalatiga",
+    petugas: "RIKA WAHYU UTAMI",    
+    endpoint: "http://localhost:8080/samsatsalatiga",
   },
   {
     no: 7,
